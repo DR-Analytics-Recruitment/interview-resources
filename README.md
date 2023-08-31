@@ -1,8 +1,8 @@
-![dec-logo](./admin/dec-logo.png)
+![dr-analytics-logo](./admin/DR-analytics-recruitment-logo.jpg)
 
-# :mortar_board: Data Engineer Camp 
+# ::mount_fuji:: DR Analytics Recruitment
 
-![python](https://img.shields.io/badge/python-lang-red)
+![data-analyst](https://img.shields.io/badge/data-analyst)
 ![sql](https://img.shields.io/badge/sql-lang-red)
 ![bash](https://img.shields.io/badge/bash-lang-red)
 ![airbyte](https://img.shields.io/badge/snowflake-tool-blue)
