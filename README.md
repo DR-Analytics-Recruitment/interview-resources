@@ -1,28 +1,21 @@
 ![dr-analytics-logo](./admin/DR-analytics-recruitment-logo.png)
 
-# ::mount_fuji:: DR Analytics Recruitment
+# :mount_fuji: DR Analytics Recruitment
 
-![data-analyst](https://img.shields.io/badge/data-analyst)
-![sql](https://img.shields.io/badge/sql-lang-red)
-![bash](https://img.shields.io/badge/bash-lang-red)
-![airbyte](https://img.shields.io/badge/snowflake-tool-blue)
-![snowflake](https://img.shields.io/badge/snowflake-tool-blue)
-![databricks](https://img.shields.io/badge/databricks-tool-blue)
-![spark](https://img.shields.io/badge/spark-tool-blue)
-![dbt](https://img.shields.io/badge/dbt-tool-blue)
-![airflow](https://img.shields.io/badge/spark-tool-blue)
-![preset](https://img.shields.io/badge/preset-tool-blue)
-![kafka](https://img.shields.io/badge/kafka-tool-blue)
-![druid](https://img.shields.io/badge/druid-tool-blue)
-![git](https://img.shields.io/badge/git-tool-blue)
-![github-actions](https://img.shields.io/badge/ghactions-tool-blue)
-![docker](https://img.shields.io/badge/docker-tool-blue)
-![aws](https://img.shields.io/badge/aws-tool-blue)
+
 
 ## :wave: Welcome 
 
-Welcome to the Data Engineer Camp bootcamp repo. The bootcamp is designed to teach aspiring data engineers the skills to become a proficient data engineer with the modern data stack. 
+Welcome to the DR Analytics Recruitment's interview testing repo. 
 
+Led by a former data analyst, DR Analytics Recruitment specialises data & analytics recruitment, helping business across Australia source, screen and onboard top data talent.
+
+We help employers find the following talent and job seekers transition into these positions:
+
+![business-intelligence](https://img.shields.io/badge/business%20intelligences%20developers-FFA532)
+![data-analyst](https://img.shields.io/badge/data%20analysts-FFA532)
+![data-engineering](https://img.shields.io/badge/data%20engineers-FFA532)
+![data-science](https://img.shields.io/badge/data%20scientists-FFA532)
 ## :date: Bootcamp timetable 
 
 | Day/Time | Activity | 
