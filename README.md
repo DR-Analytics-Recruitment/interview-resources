@@ -1,4 +1,4 @@
-![dr-analytics-logo](./admin/DR recruitment.jpg)
+![dr-analytics-logo](./admin/DR-analytics-recruitment-logo.png)
 
 # :mount_fuji: DR Analytics Recruitment
 
