@@ -1,6 +1,8 @@
 # :memo: Assessment Brief
 
-Congratulations! We would like to progress you to the next interview phase. You are invited to move into the next stage of our interview process. 
+Congratulations! We would like to progress you to the next interview phase. 
+
+You are invited to move into the next stage of our interview process. 
 
 Please return the completed assessment in ![x](https://img.shields.io/badge/x-FFA532) days.
 
@@ -18,9 +20,7 @@ Population Demographics e.g. age, income, location
 ```
 > 
 
-Feel free to choose the metrics that you find most relevant.
-
-Options:
+Feel free to choose the metrics that you find most relevant. Choice of source:
 
 ![x](https://img.shields.io/badge/a-FFA532) Use relevant reliable public datasets with one or more source. The ABS is a great resource.
 
