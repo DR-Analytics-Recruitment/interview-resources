@@ -25,7 +25,7 @@ Options:
 ![x](https://img.shields.io/badge/a-FFA532) Use relevant reliable public datasets with one or more source. The ABS is a great resource.
 
 
-![x](https://img.shields.io/badge/b-FFA532) Use supplied datasets which can be found [here](../datasets)
+![x](https://img.shields.io/badge/b-FFA532) Use supplied datasets which can be found [here](../001-power-bi/datasets).
 
 
 ## What we’re looking for 🔭
