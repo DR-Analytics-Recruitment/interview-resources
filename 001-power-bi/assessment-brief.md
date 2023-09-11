@@ -18,9 +18,15 @@ Population Demographics e.g. age, income, location
 ```
 > 
 
-Feel free to choose the metrics that you find most relevant. Use relevant reliable public datasets with one or more source. 
+Feel free to choose the metrics that you find most relevant.
 
-The ABS is a great source.
+Options:
+
+![x](https://img.shields.io/badge/a-FFA532) Use relevant reliable public datasets with one or more source. The ABS is a great resource.
+
+
+![x](https://img.shields.io/badge/b-FFA532) Use supplied datasets which can be found [here](../datasets)
+
 
 ## What we’re looking for 🔭
  
