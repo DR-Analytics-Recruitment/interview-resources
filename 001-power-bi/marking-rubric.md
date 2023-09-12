@@ -28,8 +28,8 @@ This repository contains the evaluation criteria used to assess Power BI skills 
 | Levels        | Description                                                                                     |
 |---------------|-------------------------------------------------------------------------------------------------|
 | Insufficient  | Poorly structured data model; tables lack relationships or keys.                                 |
-| Basic         | Basic normalization and relationships established.                                              |
-| Intermediate  | Data model is functional but may lack indexing or optimization. Basic understanding of facts and dimensions evident.|
+| Basic         | Basic normalisation and relationships established.                                              |
+| Intermediate  | Data model is functional but may lack indexing or optimisation. Basic understanding of facts and dimensions evident.|
 | Advanced      | Highly optimised, multi-layer data model. Evidence of understanding dimensional modeling.         |
 
 ## DAX and Measures
@@ -38,7 +38,7 @@ This repository contains the evaluation criteria used to assess Power BI skills 
 |---------------|-------------------------------------------------------------------------------|
 | Insufficient  | Lack of DAX formulas or incorrect implementations.                             |
 | Basic         | Use of simple DAX formulas like SUM, COUNT.                                    |
-| Intermediate  | Utilizes more advanced DAX functions, but may lack performance tuning.         |
+| Intermediate  | Utilises more advanced DAX functions, but may lack performance tuning.         |
 | Advanced      | Advanced DAX functions are used, and performance is optimised.                 |
 
 ## Insights and Analytics
@@ -57,7 +57,7 @@ This repository contains the evaluation criteria used to assess Power BI skills 
 | Insufficient  | Poor layout and design, hard-to-interpret visualisations.                          |
 | Basic         | Simple, readable charts but lacks advanced visual elements.                        |
 | Intermediate  | Clean design with some advanced elements like drill-through or tooltips.           |
-| Advanced      | Sophisticated use of visualizations, themes, and storytelling elements.            |
+| Advanced      | Sophisticated use of visualisations, themes, and storytelling elements.            |
 
 ## Scoring
 
@@ -73,5 +73,3 @@ The maximum possible score using this  system would be 20 (4 points for each of 
 Feel free to fork or adapt this rubric as you see fit for your company's hiring process. 
 
 If you have suggestions for improvements or additions, please submit a pull request or issue.
-
-Good luck to all candidates!
