@@ -25,11 +25,13 @@ The ability to develop and deploy a dashboard solution is paramount for Business
 This repo is designed to be beneficial for:
 
 **Employers**  
+
 ✅ Implement robust testing protocols  
 ✅ Evaluate candidate skills with set timeframes  
 ✅ Easily compare candidate performance using provided marking rubrics  
 
 **Candidates**  
+
 ✅ Practice for interviews  
 ✅ Understand what employers are looking for  
 ✅ Gauge your skill level  
