@@ -9,11 +9,11 @@ This Datasets Store is a dedicated space where we offer a variety of datasets sp
 1️⃣ **Relevance**: The datasets closely simulate real-world business challenges, offering a practical testing experience.  
 2️⃣ **Diversity**: From time-series data to natural language text, our datasets span a range of types and complexities.  
 3️⃣ **Ease of Use**: All datasets come pre-cleaned and formatted, ready to be plugged into your test cases or projects.  
-4️⃣ **Security**: These datasets are carefully anonymized and scrubbed of sensitive information, ensuring compliance with data privacy standards.
+4️⃣ **Security**: These datasets are carefully anonymised and cleaned of sensitive information, ensuring compliance with data privacy standards.
 
 ## 🗂 Dataset Categories
 
-We have categorized the datasets according to their complexity and domain to help you choose the right one for your testing needs:
+We have categorised the datasets according to their complexity and domain to help you choose the right one for your testing needs:
 
 - 📊 **Business Analytics**: Suitable for Power BI, Tableau, or SQL testing.
 - 🔢 **Numerical Data**: Perfect for statistical analysis or machine learning tasks.
@@ -28,7 +28,7 @@ We have categorized the datasets according to their complexity and domain to hel
 
 ### 👨‍💼 For Employers
 
-Utilize these datasets to create realistic testing scenarios during your interview process. Assess your candidates' skills in data wrangling, analysis, or visualization with confidence.
+Utilise these datasets to create realistic testing scenarios during your interview process. Assess your candidates' skills in data wrangling, analysis, or visualisation with confidence.
 
 ### 👩‍💻 For Candidates
 
@@ -42,10 +42,3 @@ If you have any datasets that could be beneficial for testing or have suggestion
 
 ---
 
-## 💌 Contact Us
-
-For more customized datasets or questions, feel free to [contact us](mailto:your-email@example.com).
-
----
-
-📊 Happy Testing! 📊
