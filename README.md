@@ -51,8 +51,8 @@ The aim is to improve screening protocols in data & analytics so the top people 
 
 | Technology | Description | Roles |
 | - | - | - |
-| ✅ Power BI | Microsoft's data visualisation tool used widely across data & analytics. | Business Intelligence Developer, Power BI Analyst, Data Analyst |
-| 🔒 SQL | Structured query language - the way professionals talk to relational databases. | Data Engineer, Data Analyst, Data Scientist | 
+| ✅ [Power BI](./001-power-bi) | Microsoft's data visualisation tool.. | Business Intelligence Developer, Power BI Analyst, Data Analyst |
+| 🔒 SQL | Structured query language - talk to relational databases. | Data Engineer, Data Analyst, Data Scientist | 
 | 🔒 Python | Build pipelines to serve clean data to business users | Data Engineer, Data Analyst, Data Scientist |
 | 🔒 Excel | Model data to assist with business activity and decisions | All data professionals 😉 |
 
