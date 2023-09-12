@@ -4,11 +4,10 @@
 
 This Datasets Store is a dedicated space where we offer a variety of datasets specifically designed for testing purposes. Whether you're an employer looking to assess potential hires or a candidate practicing for an interview, you'll find datasets here that mimic real-world scenarios.
 
-### 🔍 Why Use These Datasets for Testing?
+### 🔍 Why Use Datasets for Testing?
 
 1️⃣ **Relevance**: The datasets closely simulate real-world business challenges, offering a practical testing experience.  
 2️⃣ **Diversity**: From time-series data to natural language text, our datasets span a range of types and complexities.  
-3️⃣ **Ease of Use**: All datasets come pre-cleaned and formatted, ready to be plugged into your test cases or projects.  
 4️⃣ **Security**: These datasets are carefully anonymised and cleaned of sensitive information, ensuring compliance with data privacy standards.
 
 ## 🗂 Dataset Overview
@@ -19,6 +18,8 @@ We have categorised the datasets according to their complexity and domain to hel
 | - | - | - | - |
 | [Amazon Sales Data](./sales_amazon_products) | Sales | [Kaggle](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset) | ⭐ |
 | [Gold Price](./markets_gold_price) | Economics | [Kaggle](https://www.kaggle.com/datasets/sid321axn/gold-price-prediction-dataset) | ⭐ |
+| [Airline Traffic](./location_airline_traffic) | Location | [Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset) | ⭐|
+| More coming soon |... | ... | ... |
 
 
 ## 💡 How to Use
