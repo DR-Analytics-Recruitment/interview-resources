@@ -57,15 +57,6 @@ The aim is to improve screening protocols in data & analytics so the top people 
 | 🔒 Excel | Model data to assist with business activity and decisions | All data professionals 😉 |
 
 
-## :open_file_folder: Folder Structure
-
-Each folder has respective interview challenges in varying degrees of difficulty to complete and implement.
-
-| Stage | Difficulty | 
-| - | - | 
-| Beginner | :star: | 
-| Intermediate | :star::star: | 
-| Advanced | :star::star::star: | 
 
 
 
