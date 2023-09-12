@@ -11,14 +11,15 @@ This Datasets Store is a dedicated space where we offer a variety of datasets sp
 3️⃣ **Ease of Use**: All datasets come pre-cleaned and formatted, ready to be plugged into your test cases or projects.  
 4️⃣ **Security**: These datasets are carefully anonymised and cleaned of sensitive information, ensuring compliance with data privacy standards.
 
-## 🗂 Dataset Categories
+## 🗂 Dataset Overview
 
 We have categorised the datasets according to their complexity and domain to help you choose the right one for your testing needs:
 
-- 📊 **Business Analytics**: Suitable for Power BI, Tableau, or SQL testing.
-- 🔢 **Numerical Data**: Perfect for statistical analysis or machine learning tasks.
-- 📝 **Text Data**: Use these datasets for natural language processing tasks.
-- 🗺️ **Geospatial Data**: Ideal for tasks that require location-based insights.
+| Dataset | Category | Source | Difficulty |
+| - | - | - | - |
+| [Amazon Sales Data](./sales_amazon_products) | Sales | [Kaggle](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset) | ⭐ |
+| [Gold Price](./markets_gold_price) | Economics | [Kaggle](https://www.kaggle.com/datasets/sid321axn/gold-price-prediction-dataset) | ⭐ |
+
 
 ## 💡 How to Use
 
