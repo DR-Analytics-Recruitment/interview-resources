@@ -46,15 +46,15 @@ The interview resources are easy to access and have timeframes and marking rubri
 The aim is to improve screening protocols in data & analytics so the top people can be identified and hired. 
 
 
-## 🏦 Positions
+## 🏦 Testing Areas
 
 
-| Role | Description | Base-Stack |
+| Technology | Description | Roles |
 | - | - | - |
-| ✅ Business Intelligence | Ingesting, modeling and visualiaing data | Power-BI Tableau SQL |
-| 🔒 Data Analyst | Analyse data for business users to interpret | Excel Python SQL Power-BI | 
-| 🔒 Data Engineer | Build pipelines to serve clean data to business users | SQL Python ModernDataStack |
-| 🔒 Data Scientist | Model data to assist with business activity and decisions | Python SQL ModernDataStack |
+| ✅ Power BI | Microsoft's data visualisation tool used widely across data & analytics. | Business Intelligence Developer, Power BI Analyst, Data Analyst |
+| 🔒 SQL | Structured query language - the way professionals talk to relational databases. | Data Engineer, Data Analyst, Data Scientist | 
+| 🔒 Python | Build pipelines to serve clean data to business users | Data Engineer, Data Analyst, Data Scientist |
+| 🔒 Excel | Model data to assist with business activity and decisions | All data professionals 😉 |
 
 
 ## :open_file_folder: Folder Structure
