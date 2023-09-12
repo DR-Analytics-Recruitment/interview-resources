@@ -1,9 +1,9 @@
-# Marking Rubric
+# Marking Rubric ✏️
 
 The purpose of this marking key is to provide a standardised framework for evaluating the Power BI skills of candidates based on their submitted .pbix files. 
 # Power BI Assessment Rubric
 
-This repository contains the evaluation criteria used to assess Power BI skills during the hiring process. We aim for a comprehensive evaluation that includes various facets of Power BI from data connectivity to presentation. Candidates' projects will be scored based on the following criteria.
+This repository contains the evaluation criteria used to assess Power BI skills during the hiring process. We aim for a evaluation that includes various facets of Power BI from data connectivity to presentation. Candidates' projects will be scored based on the following criteria. It's important to note that skill level and role seniority must be accounted for in evaluation. 
 
 ## Table of Contents
 
