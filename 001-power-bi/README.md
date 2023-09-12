@@ -22,6 +22,15 @@ The ability to develop and deploy a dashboard solution is paramount for Business
 
 ## 👨‍🏫 How to Use This Repo
 
+There are three components to this repositroy:
+
+| Component | Use Case | 
+| - | - | 
+| [Assessment Brief](./assessment-brief.md) | Template to send to candidates in order to intiate Power BI test.|
+| [Marking Rubric](./marking-rubric.md) | Standardised evaluation criteria to screen top applicants. | 
+| [Datasets](./datasets/) | File store of public datasets that can be used as dummy data. | 
+
+
 This repo is designed to be beneficial for:
 
 **Employers**  
