@@ -18,7 +18,7 @@
 
 Welcome to the DR Analytics Recruitment's interview testing repo:
 
-> A curated list of lists of technical interview questions.
+> A curated list of technical interview questions.
 
 DR Analytics Recruitment specialises data & analytics recruitment, helping business across Australia source, screen and onboard top data talent. We help employers find data talent and job seekers transition into these positions:
 
