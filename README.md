@@ -20,7 +20,7 @@ Welcome to the DR Analytics Recruitment's interview testing repo:
 
 > A curated list of technical interview questions.
 
-DR Analytics Recruitment specialises data & analytics recruitment, helping business across Australia source, screen and onboard top data talent. We help employers find data talent and job seekers transition into these positions:
+DR Analytics Recruitment specialises in data & analytics recruitment, helping business across Australia source, screen and onboard top data talent. We help employers find data talent and job seekers transition into these positions:
 
 ![business-intelligence](https://img.shields.io/badge/business%20intelligences%20developers-FFA532)
 ![data-analyst](https://img.shields.io/badge/data%20analysts-FFA532)
@@ -41,9 +41,9 @@ This repo is designed to be used by:
 
 **2️⃣** **Employers** - seeking to implement testing protocols
 
-The interview resources are easy to access and have timeframes and marking rubrics included to measure performance.
+The interview resources are easy to access with timeframes and marking rubrics included to measure performance.
 
-The aim is to improve screening protocols in data & analytics so the top people can be identified and hired. 
+The aim is to improve screening protocols across the data & analytics industry so the top people can be identified and hired. 
 
 
 ## 🏦 Testing Areas
