@@ -33,6 +33,17 @@ DR Analytics Recruitment specialises in data & analytics recruitment, helping bu
 ![data-architects](https://img.shields.io/badge/data%20architects-FFA532)
 
 
+## 📦 Where does testing fit in the interview process?
+
+There's multiple ways to implement interview testing. Some larger companies employ it in their screening process e.g. apply and get sent a coding quiz straight away. Others, and this is more common in Australia, implement it halfway through the process as below:
+
+<div align="center">	
+	<p>	
+      <div>	
+				<img src="./admin/interview-diagram.png" width="800"  alt="DR Analytics Recruitment">	
+			</div>	
+   </div>
+
 ## 👨‍🏫 How to use this repo
 
 This repo is designed to be used by:
