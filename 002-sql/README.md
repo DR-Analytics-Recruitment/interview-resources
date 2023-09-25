@@ -25,17 +25,18 @@ Hi *CandidateFirstName*,
 Thank you for taking the time to meet with us and we're excited to invite you to the next interview stage.
 In this round, we want to learn more about your SQL experience through a one-hour live querying assessment.
 
+Please make sure you're able to:
+
+1. Work from a quiet location free from interruptions.
+2. You are able to sharescreen and use your device camera.
+3. Maintain a stable internet connection.
+
 What to Expect:
 
 - Questions relating to SQL queries, joins and filtering.
 - The assessment will focus on evaluating your hands-on technical capabilities with SQL.
 - No installations are required; we'll use a web-based SQL editor for this exercise.
 
-Preparation Checklist:
-
-1. Choose a quiet location free from interruptions.
-2. Ensure Zoom's camera and screensharing features are enabled for seamless screen sharing.
-3. Maintain a stable internet connection.
 
 Should you have any queries or concerns, please don't hesitate to reach out.
 
