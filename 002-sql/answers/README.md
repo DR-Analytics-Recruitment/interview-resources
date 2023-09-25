@@ -1,8 +1,16 @@
-SQL Interview Questions with Answers
-Beginner
-Retrieve Data
-Northwind: List all categories from the Categories table.
-SELECT CategoryName FROM Categories;
+# SQL Interview Questions with Answers
+
+---
+
+### Retrieve Data:
+- **Northwind**: List all categories from the _Categories_ table.
+
+`SELECT CategoryName FROM Categories;`
+
+
+- **Chinook**: Retrieve the names of all albums.
+- **Sakila**: Fetch the titles of the last 10 films added to the database.
+
 
 Chinook: Retrieve the names of all albums.
 SELECT Title FROM Albums;
