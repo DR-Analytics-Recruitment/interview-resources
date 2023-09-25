@@ -1,4 +1,4 @@
-# 📦 Data for Testing
+# 📦 Sample Databases for Testing
 
 ## 🤷 Why are we using SQL Online IDE?
 
