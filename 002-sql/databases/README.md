@@ -45,7 +45,7 @@ Follow the below image prompts to load the relevant warehouse.
 <div align="left">	
 	<p>	
       <div>	
-				<img src="./northwind-er-diagram.png" width="500"  alt="DR Analytics Recruitment">	
+				<img src="./northwind-er-diagram.png" width="800"  alt="DR Analytics Recruitment">	
 			</div>	
    </div>
 
@@ -55,7 +55,7 @@ Follow the below image prompts to load the relevant warehouse.
 <div align="left">	
 	<p>	
       <div>	
-				<img src="./sakila-er-diagram.png" width="500"  alt="DR Analytics Recruitment">	
+				<img src="./sakila-er-diagram.png" width="800"  alt="DR Analytics Recruitment">	
 			</div>	
    </div>
 
@@ -65,6 +65,6 @@ Follow the below image prompts to load the relevant warehouse.
    <div align="left">	
 	<p>	
       <div>	
-				<img src="./chinook-er-diagram.png" width="500"  alt="DR Analytics Recruitment">	
+				<img src="./chinook-er-diagram.png" width="800"  alt="DR Analytics Recruitment">	
 			</div>	
    </div>
