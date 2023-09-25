@@ -2,7 +2,7 @@
 
 ---
 
-## Beginner
+## Beginner ⭐
 
 ### Retrieve Data:
 - **Northwind**: List all categories from the _Categories_ table.
@@ -26,7 +26,7 @@
 
 ---
 
-## Intermediate
+## Intermediate ⭐⭐
 
 ### Complex Joins:
 - **Sakila**: List actors who have played in more than 30 films.
@@ -45,7 +45,7 @@
 
 ---
 
-## Advanced
+## Advanced ⭐⭐⭐
 
 ### Window Functions:
 - **Chinook**: For each artist, rank albums based on their release date.
