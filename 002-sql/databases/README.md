@@ -1,4 +1,4 @@
-# 📦 Data Warehouse Store for Testing
+# 📦 Data for Testing
 
 ## 🤷 Why are we using SQL Online IDE?
 
