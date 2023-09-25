@@ -16,12 +16,8 @@ There are three components to this repositroy:
 | [Questions](./questions/README.md) | Pick up to five questions from Beginner, Intermediate and Advanced modules. | 
 | [Answers](./answers/README.md/) | Compare candidate answers against stored answers. Note there is more than one answer sometimes. | 
 
-Approach to implementation:
 
-*Advise candidate of the intention to conduct a one hour long live SQL interview*
-
-Send calendar invite and confirmation email which may look something like this:
-
+Prior to testing, send calendar invite and confirmation email which may look something like this:
 
 ``` 
 Hi *CandidateFirstName*,
