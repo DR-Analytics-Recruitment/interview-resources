@@ -7,13 +7,14 @@
 
 `SELECT CategoryName FROM Categories;`
 
-
 - **Chinook**: Retrieve the names of all albums.
+
+`SELECT Title FROM Album;`
+
 - **Sakila**: Fetch the titles of the last 10 films added to the database.
 
+`SELECT title FROM film ORDER BY film_id DESC LIMIT 10;`
 
-Chinook: Retrieve the names of all albums.
-SELECT Title FROM Albums;
 
 Sakila: Fetch the titles of the last 10 films added to the database.
 SELECT title FROM film ORDER BY film_id DESC LIMIT 10;
