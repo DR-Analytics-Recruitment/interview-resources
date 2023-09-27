@@ -6,7 +6,7 @@ SQL Online IDE provides a unanimous testing environemtn at ANYONE can access reg
 
 1️⃣ **Accessibility**: can be use via any web browser.
 
-2️⃣ **Examples**: databases are provided and ready to query.
+2️⃣ **Reliability**: databases are provided and ready to query.
 
 3️⃣ **Simplicity**: simple is more effective, less steps for failure.
 
