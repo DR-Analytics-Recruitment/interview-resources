@@ -16,11 +16,11 @@ This means during a live SQL interview there is no preparation needed...from bot
 
 We have categorised the datasets according to their complexity and domain to help you choose the right one for your testing needs:
 
-| Dataset | Category | Source | Difficulty |
-| - | - | - | - |
-| Northwind | Business | Microsoft | ⭐ |
-| Chinook | Media | Github | ⭐⭐ |
-| Sakila | Entertainment | MySQL | ⭐⭐|
+| Dataset | Category | Source | Difficulty | Description |
+| - | - | - | - | - |
+| Northwind | Business | Microsoft | ⭐ | A product sales company dealing with food items, suppliers and shipments. |
+| Chinook | Media | Github | ⭐⭐ | A fictional digital music store or platform like iTunes or Spotify. |
+| Sakila | Entertainment | MySQL | ⭐⭐| A movie rental store similar to the old Blockbuster model. |
 | More coming soon |... | ... | ... |
 
 ## How to access?
