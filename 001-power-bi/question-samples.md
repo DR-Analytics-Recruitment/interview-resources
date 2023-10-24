@@ -1,106 +1,65 @@
-# Power BI Interview Questions
+# Power BI Interview Questions 📊
 
 A comprehensive list of Power BI interview questions to gauge a candidate's skill level from beginner to advanced. The questions are segmented by different areas and difficulty levels.
 
 ---
 
-## Beginner Questions
+## Generic Questions - Assessing past experiences 💻
 
-### General Questions
-
-1. What is Power BI?
-2. Can you explain the difference between Power BI Desktop and Power BI Service?
-3. What are the different components in Power BI?
-
-### Data Modeling
-
-1. What are tables and fields in Power BI?
-2. How do you import data into Power BI?
-3. Explain the concept of a relationship in Power BI.
-
-### ETL (Extract, Transform, Load)
-
-1. What is data cleansing?
-2. How do you remove duplicates in Power Query?
-3. Can you perform arithmetic operations in Power Query?
-
-### Facts and Dimensions
-
-1. What are facts and dimensions?
-2. Can you provide an example of a fact table and a dimension table?
-3. How would you link a fact table to dimension tables?
-
-### Stakeholder Communication
-
-1. How do you gather requirements for a Power BI project?
-2. What is a KPI and how do you choose one?
-3. Can you give an example of a dashboard you’ve created and its impact?
+1. Can you share with me about your current knowledge and exposure to Power BI?
+2. Can you tell me about some past projects that you've worked on?
+3. What different datasets did you work with e.g. time-series, transactional, customer-level, marketing?
+4. What challenges did you encounter and how did you overcome these?
+6. Tell me about the stakeholders you interacted with and your communication?
+7. How did you manage data quality issues? We know they exist.
+8. If you had to do this project again, what would you change or improve upon?
 
 ---
 
-## Intermediate Questions
+## Beginner Questions - Entry level or graduate roles | None - minimal experieence 
 
 ### General Questions
 
-1. How do you optimize Power BI reports for performance?
-2. What is DAX?
-3. What are the different types of filters in Power BI?
-
-### Data Modeling
-
-1. How do you handle one-to-many and many-to-many relationships?
-2. Explain the Star Schema.
-3. What is normalization and denormalization?
-
-### ETL
-
-1. How do you handle missing values during data transformation?
-2. What are M and DAX in Power Query?
-3. Can you perform incremental data loads in Power BI?
-
-### Facts and Dimensions
-
-1. How do you design a Date Dimension?
-2. How do you use facts and dimensions in DAX calculations?
-3. Explain the concept of a slowly changing dimension.
-
-### Stakeholder Communication
-
-1. How do you prioritize conflicting requirements from multiple stakeholders?
-2. What steps do you take to validate the data presented?
-3. Can you give an example where you’ve educated non-technical stakeholders about a technical topic?
+1. What is Power BI and why is it used?
+2. What are the key components of Power BI?
+3. How do you import data into Power BI?
+4. What is the difference between a Power BI report and a dashboard?
+5. Why do business users want to see Power BI visualisations?
 
 ---
 
-## Hard Questions
+## Intermediate Questions - Data Analyst or Business Intelligence Analyst | 1-3 years experience 
 
 ### General Questions
 
-1. How does Power BI integrate with Azure and other Microsoft services?
-2. Can you walk me through the architecture of a complex Power BI solution you've implemented?
-3. What are composite models in Power BI?
+1. How do you optimise Power BI reports for performance?
+2. What is DAX and can you provide an example of how it's used?
+3. What are facts and dimensions? Can you provide an example of a fact table and a dimension table?
+4. How do you handle different data sources when importing into Power BI?
+5. How do you establish relationships between tables in Power BI?
 
-### Data Modeling
+---
 
-1. What is a role-playing dimension?
-2. How do you model a many-to-many relationship with bridge tables?
-3. How do you handle big data in Power BI?
+## Hard Questions - Senior Power BI Developer or Senior Data Analyst | 3+ years experience 
 
-### ETL
+### General Questions
 
-1. How do you optimize ETL processes in Power BI?
-2. Explain query folding in Power BI.
-3. What are the limitations of Power Query?
+1. Can you walk me through the architecture of a complex Power BI solution you've implemented?
+2. What are composite models in Power BI?
+3. What are some limitations of Power BI and how have you worked around them?
+4. How do you handle real-time data in Power BI?
+5. How do you manage and monitor Power BI usage in an organisation?
 
-### Facts and Dimensions
+---
 
-1. How do you implement Type 2 Slowly Changing Dimensions?
-2. Explain the concept of Conformed Dimensions.
-3. How would you design a multi-fact, multi-grain schema?
+Interviews should be designed to give attendees the best opportunity to showcase their skillsets. Asking about prior projects coupled with company specific questions are beneficial for all parties!
 
-### Stakeholder Communication
+We can't give away all the answers. That wouldn't make for a very valuable interview testing resource!
 
-1. How do you handle stakeholder pushback?
-2. Can you discuss a time when you had to compromise on data accuracy and why?
-3. How do you handle sensitive or restricted data when reporting?
+For access to a full answer sheet and insider tips, please fill out this [**Form Request**](https://forms.gle/D8bvXXa9N1EkUzcb7)
 
+Or get in touch with Douglas Robetson:
+
+ - ✉️ douglas@analyticsrecruitment.com.au
+ - 🗣️ [LinkedIn](https://www.linkedin.com/in/douglas--robertson/)
+ - 🌐 [Website](https://analyticsrecruitment.com.au/)
