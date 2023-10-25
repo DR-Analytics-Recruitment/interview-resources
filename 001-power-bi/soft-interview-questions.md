@@ -1,6 +1,6 @@
 # Power BI Interview Questions 📊
 
-A comprehensive list of Power BI interview questions to gauge a candidate's skill level from beginner to advanced. The questions are segmented by different areas and difficulty levels.
+A comprehensive list of Power BI interview questions to gauge a candidate's skill level from beginner to advanced. The questions are segmented by different areas and difficulty levels and can be asked in a face to face interview or virtual interview.
 
 ---
 
