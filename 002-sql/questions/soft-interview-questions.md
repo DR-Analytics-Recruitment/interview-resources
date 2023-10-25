@@ -58,9 +58,9 @@ We can't give away all the answers. That wouldn't make for a very valuable inter
 
 For access to a full answer sheet and insider tips, please fill out this [**Form Request**](https://forms.gle/D8bvXXa9N1EkUzcb7)
 
-Or get in touch with [Your Name]:
+Or get in touch with Douglas:
 
-- ✉️ [Your Email]
-- 🗣️ [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- 🌐 [Website](https://yourwebsite.com/)
+- ✉️ douglas@analyticsrecruitment.com.au
+- 🗣️ [LinkedIn](https://www.linkedin.com/in/douglas--robertson/)
+- 🌐 [Website](https://www.analyticsrecruitment.com.au/)
 
