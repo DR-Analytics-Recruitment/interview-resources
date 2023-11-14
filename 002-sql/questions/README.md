@@ -48,8 +48,8 @@
 ## Advanced ⭐⭐⭐
 
 ### Window Functions:
-- **Chinook**: For each artist, rank albums based on their release date.
 - **Northwind**: Calculate the monthly cumulative sales per product throughout 1997.
+- **Chinook**: For each artist, rank albums based on their release date.
 - **Sakila**: For each film category, rank movies based on their rental frequency.
 
 ### CTEs (Common Table Expressions):
